@@ -1,6 +1,6 @@
-# This is my azure-resume
-# 1. Setting up SSH key and connection to GitHub
-# 2. Made the structure for frontend and backend (used a template)
-# 3. Worked on design, functionality and filled information
-# 4. Added main.js for the website view counter
-# 5.
+# Azure-resume
+## First steps 
+ - Setting up SSH key for secure connection to GitHub
+ - Made the structure for frontend and backend (used a template)
+- Worked on design, functionality and filled information
+- Added main.js for the website view counter
