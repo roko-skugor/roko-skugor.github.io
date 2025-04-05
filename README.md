@@ -7,3 +7,6 @@ My own azure resume, following [ACG project video.](https://www.youtube.com/watc
  - Made the structure for frontend and backend (used a template)
 - Worked on design, functionality and filled information
 - Added main.js for the website visitor counter
+
+
+https://roko-skugor.github.io/frontend/index.html
